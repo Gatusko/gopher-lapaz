@@ -14,4 +14,6 @@ func main() {
 
 	//No se puede aniadir mas elementos en un array
 	// Si dijiste que tiene 5 elemenos tiene 5 elementos
+	// SI lo haces tendras el error index out of bounds
+	//miArrayDeEnteros[5] = 4
 }
